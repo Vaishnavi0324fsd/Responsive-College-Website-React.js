@@ -35,61 +35,52 @@ Copy code
  ┣ 📜App.js           # Main application file
  ┣ 📜index.js         # Entry point of the app
  ┗ 📜styles.css       # Global styles
-💻 Installation and Setup
+
+ 
+💻 **Installation and Setup**
+
 Follow the steps below to run this project locally:
 
-Clone the Repository
+**Clone the Repository**
 
-bash
-Copy code
 git clone https://github.com/Vaishnavi0324fsd/Responsive-College-Website-React.js.git
+
 cd Responsive-College-Website-React.js
-Install Dependencies
+
+**Install Dependencies**
+
 Make sure you have Node.js installed, then run:
 
-bash
-Copy code
 npm install
+
 Start the Development Server
+
 Launch the app in your default browser:
 
-bash
-Copy code
 npm start
-Build for Production
+
+**Build for Production**
+
 To create an optimized build:
 
-bash
-Copy code
 npm run build
-📸 Screenshots
-Add screenshots of your website to showcase the UI/UX design here *
-🌐 Live Demo
-Access the live demo of the website hosted on GitHub Pages: Live Demo
 
-(Replace # with the actual GitHub Pages link once deployed.)
+📸 **Screenshots**
 
-📝 License
+**Home Page**
+
+![project1](https://github.com/user-attachments/assets/53ada852-56c3-4d66-9d52-5c7641e6c029)
+
+
+📝 **License**
+
 This project is open-source and available under the MIT License.
 
-🤝 Contributing
-Contributions are welcome! If you'd like to enhance the project, follow these steps:
 
-Fork the repository.
-Create a new branch.
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes.
-bash
-Copy code
-git commit -m "Add a new feature"
-Push the branch.
-bash
-Copy code
-git push origin feature-name
-Open a pull request.
-📧 Contact
+📧 **Contact**
+
 For any queries or suggestions, feel free to contact:
+
 Vaishnavi
-📧 vaishnavichidambaram32@gmail.com
+
+📧 **vaishnavichidambaram32@gmail.com**

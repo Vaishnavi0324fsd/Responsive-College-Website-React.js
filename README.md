@@ -1,9 +1,9 @@
-#Responsive College Website using React.js
+# Responsive College Website using React.js
 
 This repository contains the source code for a Fully Responsive College Website built using React.js. The project demonstrates modern web development techniques to create a visually appealing and user-friendly website for a college.
 
 
-🚀 ##Features
+## 🚀 Features
 
 **Responsive Design:** Optimized for devices of all sizes—desktop, tablet, and mobile.
 
@@ -16,7 +16,7 @@ This repository contains the source code for a Fully Responsive College Website 
 **SEO-Friendly:** Incorporates meta tags and semantic HTML for better search engine rankings.
 
 
-🛠️ ##Technologies Used
+## 🛠️ Technologies Used
 
 **Front-End:** React.js, HTML, CSS, JavaScript (ES6+)
 
@@ -25,7 +25,7 @@ This repository contains the source code for a Fully Responsive College Website 
 **Version Control**: Git & GitHub
 
 
-📂 ##older Structure**
+## 📂 older Structure**
 
 📦 src
 
@@ -42,7 +42,7 @@ This repository contains the source code for a Fully Responsive College Website 
  ┗ 📜styles.css       # Global styles
 
  
-💻 ##Installation and Setup
+## 💻 Installation and Setup
 
 Follow the steps below to run this project locally:
 
@@ -70,7 +70,7 @@ To create an optimized build:
 
 npm run build
 
-📸 ##Screenshots
+## 📸 Screenshots
 
 **Home Page**
 
@@ -97,11 +97,20 @@ npm run build
 ![Project1_Contact](https://github.com/user-attachments/assets/514656c9-759d-4445-9195-665817990921)
 
 
-📝 **License**
+### 📝 License
 
 This project is open-source and available under the MIT License.
 
 
-📧 **Contact**
+### 👩‍💻 About the Author
+
+**Vaishnavi**  
+An aspiring front-end developer passionate about creating dynamic and responsive web applications.
+
+Feel free to connect on www.linkedin.com/in/vaishnavi-sd
+
+
+Thank you for visiting this repository! ⭐ If you like this project, please give it a star!
+
 
 
